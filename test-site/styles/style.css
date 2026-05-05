@@ -1,0 +1,26 @@
+
+body {
+    font-family: 'Open Sans', system-ui, sans-serif;
+    width: 600px;
+    margin: 0 auto;
+    background-color: #A100004D;
+    padding: 0 20px 20px 20px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 28px;
+    color: #A10000;
+    text-align: center;
+    padding: 35px 40px 15px;
+    margin: 0;
+}
+
+.intro {
+    font-weight: 400;
+    background: #EBEBEB;
+}
+
+.content {
+    background: #FCFCFC;
+}
